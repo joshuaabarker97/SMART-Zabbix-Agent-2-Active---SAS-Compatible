@@ -100,10 +100,10 @@ sudo apt-get update
 sudo apt-get install -y git
 ```
 
-Clone the repository. Replace `OWNER/REPOSITORY` with the actual GitHub owner and repository name:
+Clone the repository:
 
 ```bash
-git clone https://github.com/OWNER/REPOSITORY.git
+git clone https://github.com/joshuaabarker97/SMART-Zabbix-Agent-2-Active---SAS-Compatible.git
 cd REPOSITORY
 ```
 
